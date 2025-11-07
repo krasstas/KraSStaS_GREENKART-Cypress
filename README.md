@@ -29,6 +29,22 @@ The goal of the task was to:
 
 ---
 
+## 🎯 Project Goals
+
+The purpose of this project is to demonstrate practical skills in:
+
+- Creating automated UI tests using Cypress
+- Designing stable and readable locators
+- Applying PageObject principles in a lightweight form
+- Implementing assertions for verification of functionality
+- Structuring a clear and scalable test project
+- Using Git and GitHub for version control and project hosting
+- Preparing professional QA documentation (README, project structure)
+
+This project simulates a real-life automation task and reflects common workflows used in QA automation teams.
+
+---
+
 ## ✅ Tech Stack
 
 - **JavaScript**
@@ -38,14 +54,6 @@ The goal of the task was to:
 - **VS Code**
 
 ---
-
-## 🖼️ Screenshot
-
-<img alt="GreenKart Home" src="./assets/greenkart_home.png" width="900" />
-
-## 🎬 Demo (GIF)
-
-<img alt="Cypress Demo" src="./assets/demo.gif" width="900" />
 
 ## ✅ Project Structure
 
@@ -73,25 +81,37 @@ KraSStaS_GREENKART-Cypress/
 
 ## ✅ Installation & Setup
 
-# 1. Clone the repository
+### 1. Clone the repository
 
+```bash
 git clone https://github.com/krasstas/KraSStaS_GREENKART-Cypress.git
+```
 
-# 2. Navigate into the project folder
+### 2. Navigate into the project folder
 
+```bash
 cd KraSStaS_GREENKART-Cypress
+```
 
-# 3. Install dependencies
+### 3. Install dependencies
 
+```bash
 npm install
+```
 
 ## ✅ How to Run the Tests
 
-🔹 Run in Interactive Mode (UI)
-npx cypress open
+### 1. Run in Interactive Mode (UI)
 
-🔹 Run in Headless Mode (terminal only)
+```bash
+npx cypress open
+```
+
+### 2. Run in Headless Mode (terminal only)
+
+```bash
 npx cypress run
+```
 
 ## ✅ Test Scenario Overview
 
@@ -108,8 +128,27 @@ The automated test performs the following actions:
 9. Open cart preview
 10. Remove Carrot from the cart
 
-✅ Author
-Stanislav Krasilnikov (KraSStaS)
+---
+
+## 🖼️ Screenshot
+
+<img alt="GreenKart Home" src="./assets/greenkart_home.png" width="900" />
+
+## 🎬 Demo (GIF)
+
+<img alt="Cypress Demo" src="./assets/greenkart_home_demo.gif" width="900" />
+
+## 🛠️ Future Improvements
+
+- Add CI/CD integration (GitHub Actions)
+- Parametrize test data
+- Add negative test cases
+- Add more PageObject structure
+- Integrate reporting (Allure)
+
+## ✅ Author
+
+**Stanislav Krasilnikov (KraSStaS)**  
 Automated QA Engineer
 
 🔗 GitHub: https://github.com/krasstas

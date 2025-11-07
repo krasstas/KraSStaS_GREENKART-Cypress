@@ -1,0 +1,8 @@
+{
+  "include": ["cypress/**/*.js", "cypress.config.js"],
+  "compilerOptions": {
+    "checkJs": false,
+    "baseUrl": ".",
+    "types": ["cypress"]
+  }
+}

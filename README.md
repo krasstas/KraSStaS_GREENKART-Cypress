@@ -1,7 +1,7 @@
 # KraSStaS_GREENKART-Cypress
 
 [![Cypress](https://img.shields.io/badge/Cypress-15%2B-brightgreen?logo=cypress&logoColor=white)](https://www.cypress.io/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-22%2B-green?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/krasstas/KraSStaS_GREENKART-Cypress)
 [![Status](https://img.shields.io/badge/Status-Completed-blue)](#)
